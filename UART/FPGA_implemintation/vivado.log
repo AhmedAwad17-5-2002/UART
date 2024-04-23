@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Apr 23 13:21:45 2024
+# Process ID: 7628
+# Current directory: E:/K.O/Indivudual Projects/UART_ME/UART/FPGA_implemintation
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12940 E:\K.O\Indivudual Projects\UART_ME\UART\FPGA_implemintation\FPGA_implemintation.xpr
+# Log file: E:/K.O/Indivudual Projects/UART_ME/UART/FPGA_implemintation/vivado.log
+# Journal file: E:/K.O/Indivudual Projects/UART_ME/UART/FPGA_implemintation\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/K.O/Indivudual Projects/UART_ME/UART/FPGA_implemintation/FPGA_implemintation.xpr}
+INFO: [Project 1-313] Project file moved from 'E:/K.O/Indivudual Projects/UART_ME/FPGA_implemintation' since last save.
+WARNING: [Project 1-312] File not found as 'E:/K.O/k.o/indivudual projects/uart_me/component.xml'; using path 'E:/k.o/indivudual projects/uart_me/component.xml' instead.
+Scanning sources...
+Finished scanning sources
+INFO: [filemgmt 56-1] IP Repository Path: Directory not found as 'E:/K.O/k.o/indivudual projects/uart_me'; using path 'E:/k.o/indivudual projects/uart_me' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'e:/k.o/indivudual projects/uart_me'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Program_Files/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:10 . Memory (MB): peak = 737.805 ; gain = 49.801
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Apr 23 13:23:10 2024...
